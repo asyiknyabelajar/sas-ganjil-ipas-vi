@@ -1,0 +1,10 @@
+{
+  "simulasi": 1000,
+  "paket_unik": 1000,
+  "butir_terambil": 1000,
+  "min_gambar": 9,
+  "max_gambar": 13,
+  "semua_kunci": true,
+  "tes_logika": "PASS: sintaks, pengacakan, kunci, navigasi, tanda ragu, penyimpanan, hasil 100 dan timeout 0",
+  "browser": "Diblokir kebijakan lingkungan; UI browser dan Blogger belum diuji"
+}

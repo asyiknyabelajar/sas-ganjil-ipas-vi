@@ -1,0 +1,27 @@
+PENDAMPING AKADEMIK — PREDIKSI SAS GANJIL IPAS VI v1.0
+Tahun pelajaran 2026/2027
+
+PASANG (direkomendasikan: GitHub Pages + Blogger)
+1. Buat repositori publik sas-ganjil-ipas-vi di akun GitHub asyiknyabelajar.
+2. Unggah index.html saja ke root branch main. Semua bank dan PNG tertanam dalam file ini. Tidak perlu database atau library luar.
+3. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+4. Buka https://asyiknyabelajar.github.io/sas-ganjil-ipas-vi/ dan uji simulasi sampai selesai. Alamat ini rencana, belum diterbitkan.
+5. Di Blogger: Halaman > Halaman baru > tampilan HTML. Tempel isi BLOGGER_EMBED.html. Jika alamat repo berbeda, ganti kedua alamat GitHub Pages pada kode.
+6. Terbitkan dan uji di komputer dan HP. Tautan kembali: https://pendampingakademik.blogspot.com/p/kelas-6-sdmi.html
+Alternatif: tempel BLOGGER_LANGSUNG.html di mode HTML. File ini berukuran lebih dari 1 MB, sehingga Blogger dapat menolak, memotong atau mengubah skrip. Gunakan iframe jika terjadi masalah. Jangan tempel keduanya.
+Pratinjau lokal: buka index.html dengan browser yang mendukung JavaScript dan localStorage.
+
+BANK DAN KISI-KISI
+Bab 1: 280 PG + 70 isian; Bab 2: 248 PG + 62 isian; Bab 3: 272 PG + 68 isian.
+100 kelompok (80 konsep/kasus dan 20 visual), masing-masing 8 PG + 2 isian. Total 800 PG + 200 isian, termasuk 160 PG dan 40 isian bergambar. Variasi soal saling berhubungan; bukan 1000 konsep yang berbeda. Pengambilan tidak mengulang kelompok stimulus pada satu sesi.
+BANK_SOAL_GURU.html dibuka setelah ekstraksi, folder gambar harus tetap bersebelahan. Kunci dan pembahasan tersedia pada masing-masing soal. bank_soal.json dapat diolah untuk pengembangan lebih lanjut. build.py adalah pembangun ulang dari konsep.txt, data_visual.txt, template.html (perlu Python + Pillow).
+Kesulitan bank: mudah 360, sedang 420, sukar 220. Estimasi desain, bukan hasil uji psikometrik. Sesi: 12 mudah, 19 sedang, 9 sukar; 30 PG dan 10 isian; 9–13 soal bergambar; tiap bab 10 PG dan 3–4 isian. Waktu 90 menit. PG 2 poin, isian 4 poin, salah/kosong 0. Nilai maksimum 100. Isian mencocokkan teks ternormalisasi dan variasi jawaban yang telah ditentukan, bukan semantik AI. Jawaban alternatif di luar daftar mungkin dinilai salah.
+Timer menggunakan waktu perangkat dan tetap berjalan saat halaman ditutup. Penyimpanan sesi lokal bergantung pada kebijakan browser. Kunci berada di sisi klien; bukan untuk ujian resmi berisiko tinggi.
+
+PENYESUAIAN & BATASAN
+Rancangan mengikuti Bab 1–3 buku siswa revisi 2025 sesuai struktur Pendamping Akademik. Contoh SAS lama banyak menggunakan sistem gerak, geografi dan globalisasi; tidak dipaksakan ke bank utama karena berbeda ATP. Contoh naskah daring diidentifikasi dari informasi publik; naskah internal atau berbayar tidak dihimpun lengkap. Tidak menyalin soal dari naskah sekolah. Data ilustrasi sains dan pameran adalah simulasi berlabel; kartu sejarah memakai tahun peristiwa. Gambar PNG asli berupa grafik dan kartu kronologi; tidak ada foto karena akses pengunduhan terhalang. Tanpa ikon, emotikon, SVG. Perlu telaah guru dan uji coba siswa untuk validitas, reliabilitas dan kesulitan empiris. Belum terbit di Blogger/GitHub. HASIL_UJI.json mencatat uji logika Node dengan DOM tiruan; UI browser diblokir oleh kebijakan lingkungan. Tidak ada klaim uji browser penuh.
+
+SEO
+Judul: Prediksi SAS Ganjil IPAS Kelas 6 SD/MI 2026 | 1.000 Soal
+Deskripsi: Latihan SAS Ganjil IPAS kelas 6 SD/MI Kurikulum Merdeka. Bank 1.000 soal, 40 soal acak, timer 90 menit, nilai dan pembahasan otomatis.
+Slug: prediksi-sas-ganjil-ipas-kelas-6-sdmi

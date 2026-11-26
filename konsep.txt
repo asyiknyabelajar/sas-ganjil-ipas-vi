@@ -1,0 +1,100 @@
+#1|1.1|Organ dan fungsi
+mulut|tempat makanan dikunyah dan bercampur dengan ludah|Nasi dikunyah sebelum ditelan.|Gigi menghancurkan makanan dan ludah membasahinya.
+kerongkongan|saluran yang mendorong makanan menuju lambung|Makanan yang telah ditelan bergerak ke lambung.|Kontraksi otot saluran mendorong bolus makanan.
+lambung|organ yang mengaduk makanan dan mencampurnya dengan asam serta enzim|Bubur makanan bercampur dengan cairan asam di dalam tubuh.|Asam dan enzim membantu penguraian protein.
+usus halus|tempat utama penyerapan zat gizi hasil pencernaan|Zat gizi dari makanan masuk ke darah setelah diuraikan.|Permukaan berjonjot memperluas bidang penyerapan.
+#1|1.1|Proses dan organ pendukung
+usus besar|bagian saluran cerna yang menyerap sebagian air dari sisa makanan|Sisa makanan menjadi lebih padat sebelum dikeluarkan.|Air diserap kembali sehingga terbentuk feses.
+rektum|tempat penyimpanan sementara feses sebelum dikeluarkan|Sisa pencernaan tertahan sesaat sebelum buang air besar.|Penampungan sementara memungkinkan pengeluaran pada waktu yang tepat.
+kantong empedu|tempat penyimpanan cairan empedu yang dibuat hati|Cairan empedu disimpan sebelum dialirkan ke usus.|Empedu diperlukan untuk membantu pemecahan lemak menjadi tetesan kecil.
+pankreas|organ yang menghasilkan enzim pencernaan dan menyalurkannya ke usus halus|Enzim tambahan masuk ke usus halus untuk mencerna makanan.|Enzim membantu memecah karbohidrat, protein, dan lemak.
+#1|1.1|Mekanisme pencernaan
+pencernaan mekanis|penghancuran makanan secara fisik menjadi bagian lebih kecil|Roti dipotong dan dikunyah tanpa mengubah jenis zat penyusunnya.|Ukuran makanan berkurang karena gerakan fisik.
+pencernaan kimiawi|penguraian zat makanan menjadi zat lebih sederhana dengan bantuan enzim|Amilase menguraikan pati ketika makanan bercampur dengan ludah.|Enzim mengubah molekul makanan menjadi bentuk yang lebih sederhana.
+peristaltik|gerakan meremas berurutan pada otot saluran pencernaan|Makanan tetap bergerak dalam kerongkongan meskipun tubuh berbaring.|Kontraksi otot bergelombang tidak hanya bergantung pada gravitasi.
+penyerapan|perpindahan hasil pencernaan melalui dinding usus ke sistem pengangkut tubuh|Zat gizi yang sudah diuraikan memasuki pembuluh darah atau limfa.|Zat gizi perlu didistribusikan ke bagian tubuh yang membutuhkannya.
+#1|1.2|Zat gizi utama
+karbohidrat|zat gizi yang menjadi sumber energi utama tubuh|Seorang anak makan nasi sebagai bekal energi sebelum kegiatan sekolah.|Pati dari nasi dapat diuraikan menjadi gula sederhana yang digunakan tubuh.
+protein|zat gizi yang membantu pertumbuhan dan perbaikan jaringan|Menu anak yang sedang tumbuh dilengkapi telur dan tempe.|Asam amino dari makanan digunakan untuk membangun jaringan tubuh.
+lemak|zat gizi cadangan energi yang membantu penyerapan vitamin tertentu|Alpukat dan kacang dikonsumsi dalam porsi yang sesuai.|Lemak membantu penyerapan vitamin A, D, E, dan K.
+serat|komponen pangan yang membantu keteraturan buang air besar|Anak menambahkan sayur dan buah pada menu agar tidak mudah sembelit.|Serat membantu pembentukan feses dan pergerakan usus.
+#1|1.2|Mikronutrien dan air
+vitamin A|zat gizi mikro yang mendukung kesehatan mata|Wortel dan sayuran hijau menjadi bagian menu untuk kesehatan penglihatan.|Tubuh dapat mengubah beta-karoten dari pangan menjadi vitamin yang mendukung fungsi mata.
+vitamin C|zat gizi mikro yang membantu pembentukan kolagen dan penyerapan zat besi|Jambu biji ditambahkan pada menu untuk membantu penyerapan zat besi.|Vitamin ini membantu tubuh menyerap zat besi dari pangan nabati.
+kalsium|mineral yang membantu pembentukan tulang dan gigi|Susu atau sumber pangan berkalsium melengkapi menu pertumbuhan.|Mineral ini diperlukan untuk mempertahankan kekuatan tulang.
+air|zat yang membantu pengaturan suhu tubuh dan pengangkutan zat|Anak membawa botol minum saat kegiatan sekolah.|Cairan tubuh perlu diganti ketika hilang melalui keringat dan urine.
+#1|1.3|Gangguan kesehatan
+diare|gangguan yang ditandai buang air besar encer dan lebih sering|Seorang anak berkali-kali buang air besar dengan feses encer.|Kehilangan cairan dapat meningkat sehingga perlu perhatian orang dewasa.
+sembelit|gangguan yang membuat feses sulit dikeluarkan|Anak sulit buang air besar setelah kurang minum dan jarang makan sayur.|Kekurangan cairan dan serat dapat berperan dalam pengerasan feses.
+GERD|kondisi ketika isi lambung berulang kali naik ke kerongkongan|Anak sering merasakan rasa asam naik setelah makan dan berbaring.|Aliran balik isi lambung dapat mengiritasi kerongkongan.
+keracunan makanan|gangguan akibat mengonsumsi makanan yang mengandung zat berbahaya atau kuman tertentu|Beberapa orang sakit setelah mengonsumsi hidangan yang tidak disimpan dengan baik.|Pencemaran makanan dapat menyebabkan gangguan kesehatan.
+#1|1.3|Kebiasaan sehat
+cuci tangan pakai sabun|kebiasaan mengurangi perpindahan kuman dari tangan ke makanan|Sebelum makan, siswa membersihkan tangan dengan air mengalir dan sabun.|Sabun dan pembilasan membantu menghilangkan kotoran serta kuman.
+menu seimbang|susunan makanan beragam dengan porsi yang sesuai kebutuhan|Bekal berisi nasi, ikan, sayur, buah, dan air minum.|Keragaman pangan membantu memenuhi kebutuhan berbagai zat gizi.
+penyimpanan dingin|cara memperlambat pertumbuhan banyak mikroorganisme pada makanan mudah rusak|Lauk yang masih layak disimpan di lemari pendingin dengan benar.|Suhu rendah memperlambat pertumbuhan banyak jenis mikroorganisme.
+membaca label pangan|kebiasaan memeriksa informasi kandungan dan takaran sajian pada kemasan|Dua minuman kemasan dibandingkan berdasarkan kandungan gula per sajian.|Informasi kemasan membantu memilih produk berdasarkan data, bukan iklan.
+#2|2.1|Saluran pernapasan
+hidung|tempat udara masuk yang membantu menyaring, menghangatkan, dan melembapkan udara|Udara pertama kali melalui rambut halus dan lendir sebelum menuju saluran bawah.|Lendir dan rambut halus membantu menahan sebagian partikel.
+trakea|saluran udara bercincin tulang rawan yang menuju percabangan bronkus|Udara dari laring bergerak melalui saluran yang tetap terbuka karena cincin penyangga.|Cincin tulang rawan menjaga jalan udara agar tidak mudah kolaps.
+bronkiolus|cabang kecil saluran pernapasan yang menuju kantong udara|Udara melewati percabangan kecil setelah bronkus sebelum sampai ke alveolus.|Percabangan membantu mendistribusikan udara di dalam paru-paru.
+alveolus|kantong udara kecil tempat utama pertukaran oksigen dan karbon dioksida|Oksigen berpindah ke kapiler di ujung saluran paru-paru.|Dinding tipis dan jaringan kapiler mendukung pertukaran gas.
+#2|2.1|Mekanisme napas
+inspirasi|proses masuknya udara ke paru-paru ketika volume rongga dada meningkat|Saat menarik napas, rongga dada membesar dan udara masuk.|Tekanan udara dalam paru-paru turun dibandingkan udara luar.
+ekspirasi|proses keluarnya udara dari paru-paru ketika volume rongga dada menurun|Saat mengembuskan napas biasa, rongga dada kembali mengecil.|Tekanan dalam paru-paru meningkat sehingga udara keluar.
+diafragma|otot berbentuk kubah yang memisahkan rongga dada dan rongga perut|Otot di bawah paru-paru berkontraksi menjadi lebih mendatar saat menarik napas.|Perubahan posisi otot memperbesar ruang rongga dada.
+pertukaran gas|perpindahan oksigen dan karbon dioksida antara alveolus dan darah|Oksigen masuk ke darah sementara karbon dioksida bergerak ke kantong udara.|Perbedaan konsentrasi gas mendorong perpindahan melalui dinding tipis.
+#2|2.2|Kualitas udara
+oksigen|gas yang digunakan sel untuk memperoleh energi dari zat gizi|Sel tubuh memerlukan gas dari udara agar respirasi aerob dapat berlangsung.|Gas ini membantu proses pelepasan energi dari makanan.
+karbon dioksida|gas sisa respirasi sel yang sebagian besar dikeluarkan melalui paru-paru|Darah membawa gas hasil respirasi sel menuju paru-paru untuk dikeluarkan.|Pengeluaran gas sisa menjaga keseimbangan tubuh.
+partikulat|butiran sangat kecil di udara yang dapat masuk ke saluran napas|Udara dekat jalan berdebu mengandung partikel halus yang terhirup.|Partikel halus dapat mengganggu kesehatan saluran pernapasan.
+karbon monoksida|gas beracun dari pembakaran tidak sempurna yang mengganggu pengangkutan oksigen|Mesin menyala di ruang tertutup dapat menghasilkan gas berbahaya tanpa warna atau bau.|Gas ini berikatan kuat dengan hemoglobin sehingga mengurangi pengangkutan oksigen.
+#2|2.2|Gangguan pernapasan
+asma|gangguan dengan penyempitan saluran napas yang dapat kambuh karena pemicu|Anak yang telah didiagnosis mengalami mengi ketika terpapar pemicu tertentu.|Peradangan dan penyempitan saluran napas dapat menghambat aliran udara.
+influenza|infeksi saluran pernapasan yang disebabkan virus influenza|Siswa terkena infeksi virus influenza dengan demam dan batuk.|Virus dapat menyebar melalui partikel pernapasan.
+pneumonia|infeksi paru-paru yang dapat menyebabkan kantong udara terisi cairan|Dokter menemukan infeksi paru yang mengganggu kantong udara pada pasien.|Peradangan di kantong udara dapat menghambat pertukaran gas.
+bronkitis|peradangan pada saluran bronkus|Dokter menemukan peradangan pada cabang besar saluran udara pasien.|Peradangan dapat menyebabkan batuk dan peningkatan lendir.
+#2|2.3|Pencegahan dan kebiasaan
+ventilasi|pertukaran udara antara ruang dalam dan luar|Jendela kelas dibuka ketika udara luar bersih agar udara berganti.|Pertukaran udara membantu mengurangi penumpukan polutan di ruangan.
+aktivitas fisik teratur|kebiasaan bergerak sesuai kemampuan yang mendukung kebugaran jantung dan paru|Siswa berjalan kaki dan bermain aktif secara teratur.|Latihan yang sesuai kemampuan mendukung kebugaran tubuh.
+etika batuk|cara menutup batuk atau bersin dengan tisu atau lipatan siku|Siswa batuk ke lipatan siku agar tidak menyebarkan percikan ke teman.|Menutup percikan membantu mengurangi penyebaran partikel pernapasan.
+lingkungan bebas asap rokok|lingkungan yang mencegah paparan asap tembakau|Sekolah melarang orang merokok di area belajar.|Menghindari asap tembakau mengurangi paparan bahan berbahaya pada paru-paru.
+#2|2.3|Keterampilan penyelidikan
+frekuensi napas|jumlah siklus menarik dan mengembuskan napas dalam satu menit|Siswa menghitung banyaknya siklus napas selama enam puluh detik.|Pengukuran dengan satuan waktu sama memudahkan perbandingan.
+variabel bebas|faktor yang sengaja diubah dalam percobaan|Siswa membandingkan napas setelah duduk dan setelah berjalan dengan waktu ukur sama.|Jenis kegiatan diubah untuk mengetahui pengaruhnya terhadap hasil.
+variabel terikat|hasil yang diukur sebagai respons terhadap perubahan faktor percobaan|Dalam percobaan aktivitas, siswa mencatat jumlah napas per menit sebagai hasil.|Hasil pengukuran dapat berubah ketika faktor percobaan diubah.
+variabel kontrol|faktor yang dijaga tetap agar perbandingan lebih adil|Siswa menggunakan durasi penghitungan yang sama pada semua kegiatan.|Menjaga durasi pengukuran sama mencegah perbandingan yang tidak adil.
+#3|3.1|Kedatangan bangsa Eropa
+rempah-rempah|komoditas bernilai tinggi yang mendorong perdagangan bangsa Eropa ke Nusantara|Pedagang mencari pala, cengkih, dan lada dari kepulauan Indonesia.|Komoditas tersebut bernilai karena kegunaan dan permintaan tinggi di pasar.
+monopoli|penguasaan perdagangan oleh satu pihak yang membatasi persaingan|Pedagang lokal dipaksa menjual komoditas hanya kepada perusahaan tertentu.|Pembatasan pilihan pembeli memberi satu pihak kendali perdagangan.
+kolonialisme|penguasaan wilayah dan masyarakat lain demi kepentingan pihak penjajah|Kekuatan asing mengatur wilayah dan mengambil keuntungan dari penduduk setempat.|Kekuasaan atas wilayah memungkinkan eksploitasi sumber daya dan masyarakat.
+tanam paksa|kebijakan kolonial yang mewajibkan penanaman komoditas tertentu untuk kepentingan pemerintah Belanda|Pada abad ke-19, petani diwajibkan menyediakan lahan atau tenaga untuk tanaman ekspor.|Kewajiban itu mengutamakan pemasukan pemerintah kolonial.
+#3|3.1|Peristiwa kolonial
+Portugis|bangsa Eropa yang menguasai Malaka pada 1511 dan kemudian mencapai Maluku|Catatan sejarah menunjukkan armada dari Eropa menguasai Malaka pada awal abad ke-16.|Penguasaan Malaka mendukung pencarian jalur perdagangan rempah-rempah.
+VOC|perusahaan dagang Belanda yang didirikan pada 1602|Sebuah kongsi dagang Belanda memperoleh hak istimewa untuk berdagang dan berkuasa.|Hak istimewa memberi perusahaan kekuatan ekonomi dan politik.
+Jepang|negara yang menduduki Indonesia pada 1942 hingga 1945|Pada masa Perang Dunia II, kekuasaan kolonial Belanda digantikan pemerintahan militer Asia Timur.|Pendudukan ini berlangsung sampai menjelang kemerdekaan Indonesia.
+romusha|sebutan untuk pekerja paksa pada masa pendudukan Jepang|Penduduk dikerahkan untuk pekerjaan berat demi kebutuhan perang pada 1940-an.|Pengerahan paksa menyebabkan penderitaan besar bagi pekerja dan keluarga.
+#3|3.2|Pahlawan perlawanan
+Pangeran Diponegoro|pemimpin Perang Jawa pada 1825–1830|Museum menampilkan kisah perlawanan besar di Jawa pada awal abad ke-19.|Perlawanan tersebut dikenal sebagai Perang Diponegoro atau Perang Jawa.
+Pattimura|pemimpin perlawanan rakyat Maluku pada 1817|Pameran di Maluku menceritakan perlawanan di Saparua tahun 1817.|Thomas Matulessy dikenal sebagai tokoh utama perlawanan tersebut.
+Tuanku Imam Bonjol|tokoh utama perlawanan dalam Perang Padri di Sumatra Barat|Siswa menelusuri kisah perjuangan dari Bonjol melawan kolonialisme Belanda.|Tokoh ini memimpin perjuangan yang terkait Perang Padri.
+Cut Nyak Dien|tokoh perempuan yang melanjutkan perjuangan melawan Belanda di Aceh|Biografi seorang pejuang perempuan Aceh menggambarkan keteguhannya melanjutkan perlawanan.|Perjuangannya menjadi bagian penting sejarah perlawanan Aceh.
+#3|3.2|Pendidikan dan kebangkitan
+R.A. Kartini|tokoh yang memperjuangkan kesempatan pendidikan bagi perempuan|Siswa membaca surat yang mengkritik terbatasnya kesempatan belajar perempuan.|Gagasan pendidikan membuka peluang yang lebih adil bagi perempuan.
+Ki Hadjar Dewantara|pendiri Taman Siswa yang memperjuangkan pendidikan nasional|Sebuah sekolah didirikan pada 1922 untuk memajukan pendidikan bangsa.|Pendidikan dipandang sebagai sarana membangun kemandirian masyarakat.
+Budi Utomo|organisasi yang berdiri pada 20 Mei 1908 dan menjadi tonggak kebangkitan nasional|Siswa menandai tanggal 20 Mei 1908 pada garis waktu pergerakan nasional.|Organisasi modern menandai berkembangnya perjuangan melalui pendidikan dan perkumpulan.
+Sumpah Pemuda|ikrar tahun 1928 yang menegaskan persatuan tanah air, bangsa, dan bahasa Indonesia|Pemuda berbagai daerah menyatukan tekad pada 28 Oktober 1928.|Ikrar tersebut memperkuat identitas dan persatuan nasional.
+#3|3.2|Proklamasi
+Soekarno|tokoh yang membacakan teks Proklamasi Kemerdekaan Indonesia|Pada 17 Agustus 1945, seorang tokoh membacakan pernyataan kemerdekaan didampingi Mohammad Hatta.|Pembacaan teks menandai pernyataan kemerdekaan bangsa Indonesia.
+Mohammad Hatta|tokoh yang menandatangani teks proklamasi bersama Soekarno atas nama bangsa Indonesia|Naskah proklamasi memuat dua tanda tangan; salah satunya adalah tokoh pendamping Soekarno.|Kedua tokoh mewakili bangsa Indonesia dalam penandatanganan.
+Sayuti Melik|tokoh yang mengetik naskah Proklamasi Kemerdekaan Indonesia|Naskah tulisan tangan hasil perumusan disalin menjadi naskah ketikan.|Pengetikan membantu menghasilkan naskah akhir yang ditandatangani.
+Fatmawati|tokoh yang menjahit bendera Merah Putih yang dikibarkan saat proklamasi|Pameran sejarah memuat kisah pembuatan bendera pusaka untuk kemerdekaan.|Bendera Merah Putih menjadi simbol kemerdekaan bangsa.
+#3|3.3|Sumber sejarah
+sumber primer|bukti yang berasal langsung dari masa atau pelaku peristiwa yang diteliti|Siswa memeriksa naskah asli yang dibuat ketika peristiwa terjadi.|Kedekatan dengan peristiwa membuat bukti ini penting, tetapi tetap perlu diperiksa.
+sumber sekunder|uraian yang disusun kemudian berdasarkan penelitian atau sumber lain|Siswa membaca buku sejarah terbitan modern yang menganalisis arsip lama.|Penulis menafsirkan bukti yang sudah ada untuk menjelaskan peristiwa.
+kronologi|urutan peristiwa berdasarkan waktu terjadinya|Siswa mengurutkan peristiwa 1908, 1928, dan 1945 pada garis waktu.|Urutan waktu membantu memahami perkembangan sejarah.
+verifikasi sumber|pemeriksaan keaslian dan keterandalan bukti sejarah|Siswa membandingkan tanggal pada dua arsip sebelum menulis laporan.|Pemeriksaan silang mengurangi risiko kesalahan informasi.
+#3|3.3|Nilai kepahlawanan
+persatuan|kesediaan menyatukan perbedaan untuk mencapai tujuan bersama|Siswa dari berbagai latar belakang bekerja menuju tujuan kelas yang sama.|Tujuan bersama dapat dicapai dengan menghargai perbedaan.
+rela berkorban|kesediaan memberikan waktu atau tenaga demi kepentingan bersama tanpa memaksa orang lain|Siswa menyisihkan waktu luang membantu kegiatan sosial meskipun tidak mendapat hadiah.|Kepentingan bersama didahulukan melalui tindakan sukarela.
+tanggung jawab|kesediaan melaksanakan kewajiban dan menerima akibat tindakan|Siswa menyelesaikan bagian laporan sejarah yang telah dipercayakan kepadanya.|Tugas yang dilaksanakan dengan baik mendukung hasil kelompok.
+kejujuran|sikap menyampaikan fakta apa adanya tanpa memalsukan bukti|Siswa mengakui bahwa data wawancara belum ditemukan dan tidak mengarang hasil.|Kejujuran menjaga keterandalan karya sejarah.

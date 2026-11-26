@@ -1,0 +1,20 @@
+1|1.2|Serat pada empat contoh sajian|gram|Data simulasi per sajian dengan berat sama; untuk latihan membaca informasi gizi.|Nasi putih:1;Roti gandum:4;Pepaya:3;Kacang merah:7
+1|1.2|Gula pada empat minuman kemasan|gram|Data simulasi per sajian 200 ml. Kandungan gula bukan satu-satunya ukuran kesehatan.|Minuman A:18;Minuman B:6;Minuman C:12;Minuman D:24
+1|1.2|Protein pada empat contoh lauk|gram|Data simulasi per sajian. Protein membantu pertumbuhan dan perbaikan jaringan.|Lauk A:8;Lauk B:14;Lauk C:5;Lauk D:20
+1|1.2|Air minum yang dicatat empat kelompok|gelas|Data simulasi selama satu kegiatan kelas; bukan rekomendasi kebutuhan harian.|Kelompok A:4;Kelompok B:7;Kelompok C:5;Kelompok D:9
+1|1.1|Waktu pelunakan potongan roti dalam model pencernaan|menit|Data simulasi model kelas dengan perlakuan berbeda; waktu lebih kecil berarti lebih cepat lunak.|Potongan A:8;Potongan B:3;Potongan C:5;Potongan D:12
+1|1.3|Siswa yang membawa bekal beragam|siswa|Data simulasi empat kelas dengan jumlah murid sama; bekal beragam memuat beberapa kelompok pangan.|Kelas A:18;Kelas B:24;Kelas C:15;Kelas D:21
+1|1.3|Jumlah siswa yang mencuci tangan sebelum makan|siswa|Data simulasi empat kelas berukuran sama; pengamatan satu hari.|Kelas A:20;Kelas B:28;Kelas C:16;Kelas D:24
+2|2.3|Frekuensi napas pada empat kondisi|napas/menit|Data simulasi seorang siswa. Aktivitas dilakukan ringan dan sesuai kemampuan.|Duduk:16;Berjalan:22;Senam ringan:28;Pemulihan:19
+2|2.3|Frekuensi napas setelah kegiatan ringan|napas/menit|Data simulasi empat siswa sesudah berjalan dengan durasi sama; bukan alat diagnosis.|Siswa A:21;Siswa B:26;Siswa C:18;Siswa D:24
+2|2.2|Partikel debu tertangkap pada model pengamatan|partikel|Data simulasi dari empat tempat dengan durasi pengamatan sama; bukan pengukuran PM2,5 resmi.|Perpustakaan:12;Tepi jalan:45;Taman:18;Parkir:32
+2|2.3|Jumlah jendela yang dapat dibuka|jendela|Data simulasi ruang kelas; jumlah jendela tidak cukup untuk memastikan mutu udara.|Ruang A:4;Ruang B:8;Ruang C:2;Ruang D:6
+2|2.2|Kendaraan yang melintas saat pengamatan|kendaraan|Data simulasi empat lokasi selama sepuluh menit; jumlah kendaraan bukan ukuran langsung kadar polutan.|Lokasi A:15;Lokasi B:40;Lokasi C:8;Lokasi D:25
+2|2.1|Volume udara pada model balon paru-paru|ml|Data simulasi model balon; bukan volume paru-paru manusia.|Model A:80;Model B:120;Model C:60;Model D:100
+2|2.3|Jumlah siswa yang mengikuti kampanye etika batuk|siswa|Data simulasi empat kelompok berukuran sama; menunjukkan partisipasi, bukan jumlah orang sakit.|Kelompok A:12;Kelompok B:18;Kelompok C:9;Kelompok D:15
+3|3.1|Garis waktu awal kolonialisme|tahun|Tahun peristiwa sejarah, disajikan tidak berurutan untuk latihan kronologi.|VOC berdiri:1602;Portugis kuasai Malaka:1511;Ekspedisi Cornelis de Houtman tiba di Banten:1596;Tanam paksa dimulai:1830
+3|3.2|Awal perlawanan dan pergerakan|tahun|Tahun awal peristiwa; bukan tahun berakhirnya perjuangan.|Perang Jawa:1825;Perlawanan Pattimura:1817;Perang Aceh:1873;Budi Utomo berdiri:1908
+3|3.2|Tonggak pergerakan nasional|tahun|Tahun peristiwa sejarah; perhatikan urutan waktu.|Sumpah Pemuda:1928;Budi Utomo berdiri:1908;Taman Siswa berdiri:1922;Proklamasi:1945
+3|3.2|Peristiwa sekitar kemerdekaan|tahun|Tahun peristiwa sejarah, bukan tanggal lengkap.|Pendudukan Jepang dimulai:1942;Proklamasi:1945;Konferensi Meja Bundar:1949;Agresi Militer Belanda I:1947
+3|3.3|Koleksi pameran sejarah kelas|koleksi|Data simulasi koleksi pameran; jumlah tidak menentukan keaslian sumber.|Foto:12;Peta:6;Replika benda:9;Salinan dokumen:15
+3|3.3|Partisipasi kegiatan meneladani pahlawan|siswa|Data simulasi empat kegiatan; jumlah peserta tidak menentukan nilai moral seseorang.|Kerja bakti:24;Baca sejarah:16;Pameran:20;Bakti sosial:28
